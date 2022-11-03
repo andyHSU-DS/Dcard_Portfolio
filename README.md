@@ -18,3 +18,5 @@
 
 5. NBA年度前三隊預測：透過爬蟲收集自1984年以來NBA年度前三隊得主的名單及歷年各選手的表現經過資料的前處理及特徵工程來建立新指標後，運用DNN及羅吉斯回歸分別進行得主名單的預測
    medium文章連結：https://medium.com/@andy.hsu871226/%E9%81%8B%E7%94%A8%E9%82%8F%E8%BC%AF%E6%96%AF%E5%9B%9E%E6%AD%B8%E9%A0%90%E6%B8%ACnba%E5%B9%B4%E5%BA%A6%E5%89%8D%E4%B8%89%E9%9A%8A-8956cb6498ec
+   
+6. DataBase_NBA：收集NBA官方網站上的球員資料，透過Docker及DBeaver在本機搭建資料庫來存放相關資料，並且透過pymysql套件來實現SQL語法
