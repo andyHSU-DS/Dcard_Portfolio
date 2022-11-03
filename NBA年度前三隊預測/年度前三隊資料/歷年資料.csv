@@ -1,0 +1,545 @@
+﻿Year,Player,Pos,Team,次數
+1984,Kareem Abdul-Jabbar,C,Los Angeles Lakers,1
+1984,Moses Malone,C,Philadelphia 76ers,1
+1984,Julius Erving,F,Philadelphia 76ers,1
+1984,Sidney Moncrief,G,Milwaukee Bucks,1
+1984,Adrian Dantley,F,Utah Jazz,1
+1984,Bernard King,F,New York Knicks,1
+1984,Isiah Thomas,G,Detroit Pistons,1
+1984,Larry Bird,F,Boston Celtics,1
+1984,Magic Johnson,G,Los Angeles Lakers,1
+1985,Moses Malone,C,Philadelphia 76ers,1
+1985,Terry Cummings,F,Milwaukee Bucks,1
+1985,Kareem Abdul-Jabbar,C,Los Angeles Lakers,1
+1985,Michael Jordan,G,Chicago Bulls,1
+1985,Isiah Thomas,G,Detroit Pistons,1
+1985,Ralph Sampson,F,Houston Rockets,1
+1985,Larry Bird,F,Boston Celtics,1
+1985,Sidney Moncrief,G,Milwaukee Bucks,1
+1985,Magic Johnson,G,Los Angeles Lakers,1
+1985,Bernard King,F,New York Knicks,1
+1986,Alvin Robertson,G,San Antonio Spurs,1
+1986,Hakeem Olajuwon,C,Houston Rockets,1
+1986,Sidney Moncrief,G,Milwaukee Bucks,1
+1986,Samuel Fedor,F,Denver Nuggets,1
+1986,Charles Barkley,F,Philadelphia 76ers,1
+1986,Magic Johnson,G,Los Angeles Lakers,1
+1986,Dominique Wilkins,F,Atlanta Hawks,1
+1986,Kareem Abdul-Jabbar,C,Los Angeles Lakers,1
+1986,Larry Bird,F,Boston Celtics,1
+1986,Isiah Thomas,G,Detroit Pistons,1
+1987,Kevin McHale,F,Boston Celtics,1
+1987,Larry Bird,F,Boston Celtics,1
+1987,Hakeem Olajuwon,C,Houston Rockets,1
+1987,Moses Malone,C,Washington Bullets,1
+1987,Fat Lever,G,Denver Nuggets,1
+1987,Dominique Wilkins,F,Atlanta Hawks,1
+1987,Magic Johnson,G,Los Angeles Lakers,1
+1987,Michael Jordan,G,Chicago Bulls,1
+1987,Isiah Thomas,G,Detroit Pistons,1
+1987,Charles Barkley,F,Philadelphia 76ers,1
+1988,Charles Barkley,F,Philadelphia 76ers,1
+1988,Hakeem Olajuwon,C,Houston Rockets,1
+1988,Clyde Drexler,G,Portland Trail Blazers,1
+1988,John Stockton,G,Utah Jazz,1
+1988,Karl Malone,F,Utah Jazz,1
+1988,Larry Bird,F,Boston Celtics,1
+1988,Dominique Wilkins,F,Atlanta Hawks,1
+1988,Patrick Ewing,C,New York Knicks,1
+1988,Michael Jordan,G,Chicago Bulls,1
+1988,Magic Johnson,G,Los Angeles Lakers,1
+1989,Charles Barkley,F,Philadelphia 76ers,1
+1989,Mark Price,G,Cleveland Cavaliers,1
+1989,Hakeem Olajuwon,C,Houston Rockets,1
+1989,Michael Jordan,G,Chicago Bulls,1
+1989,Terry Cummings,F,Milwaukee Bucks,1
+1989,John Stockton,G,Utah Jazz,1
+1989,Tom Chambers,F,Phoenix Suns,1
+1989,Dale Ellis,G,Seattle SuperSonics,1
+1989,Chris Mullin,F,Golden State Warriors,1
+1989,Robert Parish,C,Boston Celtics,1
+1989,Karl Malone,F,Utah Jazz,1
+1989,Dominique Wilkins,F,Atlanta Hawks,1
+1989,Kevin Johnson,G,Phoenix Suns,1
+1989,Patrick Ewing,C,New York Knicks,1
+1989,Magic Johnson,G,Los Angeles Lakers,1
+1990,Chris Mullin,F,Golden State Warriors,1
+1990,Michael Jordan,G,Chicago Bulls,1
+1990,Joe Dumars,G,Detroit Pistons,1
+1990,James Worthy,F,Los Angeles Lakers,1
+1990,Charles Barkley,F,Philadelphia 76ers,1
+1990,Karl Malone,F,Utah Jazz,1
+1990,Patrick Ewing,C,New York Knicks,1
+1990,Larry Bird,F,Boston Celtics,1
+1990,David Robinson,C,San Antonio Spurs,1
+1990,Kevin Johnson,G,Phoenix Suns,1
+1990,Hakeem Olajuwon,C,Houston Rockets,1
+1990,Magic Johnson,G,Los Angeles Lakers,1
+1990,Clyde Drexler,G,Portland Trail Blazers,1
+1990,Tom Chambers,F,Phoenix Suns,1
+1990,John Stockton,G,Utah Jazz,1
+1991,Hakeem Olajuwon,C,Houston Rockets,1
+1991,Charles Barkley,F,Philadelphia 76ers,1
+1991,John Stockton,G,Utah Jazz,1
+1991,Joe Dumars,G,Detroit Pistons,1
+1991,Michael Jordan,G,Chicago Bulls,1
+1991,Karl Malone,F,Utah Jazz,1
+1991,David Robinson,C,San Antonio Spurs,1
+1991,Dominique Wilkins,F,Atlanta Hawks,1
+1991,Bernard King,F,Washington Bullets,1
+1991,Patrick Ewing,C,New York Knicks,1
+1991,Kevin Johnson,G,Phoenix Suns,1
+1991,Clyde Drexler,G,Portland Trail Blazers,1
+1991,James Worthy,F,Los Angeles Lakers,1
+1991,Chris Mullin,F,Golden State Warriors,1
+1991,Magic Johnson,G,Los Angeles Lakers,1
+1992,Tim Hardaway,G,Golden State Warriors,1
+1992,Patrick Ewing,C,New York Knicks,1
+1992,Charles Barkley,F,Philadelphia 76ers,1
+1992,David Robinson,C,San Antonio Spurs,1
+1992,Michael Jordan,G,Chicago Bulls,1
+1992,Clyde Drexler,G,Portland Trail Blazers,1
+1992,John Stockton,G,Utah Jazz,1
+1992,Scottie Pippen,F,Chicago Bulls,1
+1992,Dennis Rodman,F,Detroit Pistons,1
+1992,Mark Price,G,Cleveland Cavaliers,1
+1992,Brad Daugherty,C,Cleveland Cavaliers,1
+1992,Karl Malone,F,Utah Jazz,1
+1992,Chris Mullin,F,Golden State Warriors,1
+1992,Kevin Willis,F,Atlanta Hawks,1
+1992,Kevin Johnson,G,Phoenix Suns,1
+1993,Joe Dumars,G,Detroit Pistons,1
+1993,Dominique Wilkins,F,Atlanta Hawks,1
+1993,Charles Barkley,F,Phoenix Suns,1
+1993,Karl Malone,F,Utah Jazz,1
+1993,Hakeem Olajuwon,C,Houston Rockets,1
+1993,Michael Jordan,G,Chicago Bulls,1
+1993,Mark Price,G,Cleveland Cavaliers,1
+1993,John Stockton,G,Utah Jazz,1
+1993,Tim Hardaway,G,Golden State Warriors,1
+1993,Scottie Pippen,F,Chicago Bulls,1
+1993,David Robinson,C,San Antonio Spurs,1
+1993,Drazen Petrovic,G,New Jersey Nets,1
+1993,Patrick Ewing,C,New York Knicks,1
+1993,Larry Johnson,F,Charlotte Hornets,1
+1993,Derrick Coleman,F,New Jersey Nets,1
+1994,Mitch Richmond,G,Sacramento Kings,1
+1994,Karl Malone,F,Utah Jazz,1
+1994,Kevin Johnson,G,Phoenix Suns,1
+1994,John Stockton,G,Utah Jazz,1
+1994,Hakeem Olajuwon,C,Houston Rockets,1
+1994,David Robinson,C,San Antonio Spurs,1
+1994,Derrick Coleman,F,New Jersey Nets,1
+1994,Shawn Kemp,F,Seattle SuperSonics,1
+1994,Gary Payton,G,Seattle SuperSonics,1
+1994,Mark Price,G,Cleveland Cavaliers,1
+1994,Dominique Wilkins,F,Los Angeles Clippers,1
+1994,Latrell Sprewell,G,Golden State Warriors,1
+1994,Scottie Pippen,F,Chicago Bulls,1
+1994,Shaquille O'Neal,C,Orlando Magic,1
+1994,Charles Barkley,F,Phoenix Suns,1
+1995,Karl Malone,F,Utah Jazz,1
+1995,Shawn Kemp,F,Seattle SuperSonics,1
+1995,John Stockton,G,Utah Jazz,1
+1995,Reggie Miller,G,Indiana Pacers,1
+1995,David Robinson,C,San Antonio Spurs,1
+1995,Mitch Richmond,G,Sacramento Kings,1
+1995,Gary Payton,G,Seattle SuperSonics,1
+1995,Detlef Schrempf,F,Seattle SuperSonics,1
+1995,Scottie Pippen,F,Chicago Bulls,1
+1995,Charles Barkley,F,Phoenix Suns,1
+1995,Anfernee Hardaway,G,Orlando Magic,1
+1995,Hakeem Olajuwon,C,Houston Rockets,1
+1995,Dennis Rodman,F,San Antonio Spurs,1
+1995,Shaquille O'Neal,C,Los Angeles Lakers,1
+1995,Clyde Drexler,G,Houston Rockets,1
+1996,Juwan Howard,F,Washington Bullets,1
+1996,Shawn Kemp,F,Seattle SuperSonics,1
+1996,John Stockton,G,Utah Jazz,1
+1996,Mitch Richmond,G,Sacramento Kings,1
+1996,Charles Barkley,F,Phoenix Suns,1
+1996,Hakeem Olajuwon,C,Houston Rockets,1
+1996,Karl Malone,F,Utah Jazz,1
+1996,Grant Hill,F,Detroit Pistons,1
+1996,David Robinson,C,San Antonio Spurs,1
+1996,Anfernee Hardaway,G,Orlando Magic,1
+1996,Gary Payton,G,Seattle SuperSonics,1
+1996,Michael Jordan,G,Chicago Bulls,1
+1996,Reggie Miller,G,Indiana Pacers,1
+1996,Shaquille O'Neal,C,Orlando Magic,1
+1996,Scottie Pippen,F,Chicago Bulls,1
+1997,Hakeem Olajuwon,C,Houston Rockets,1
+1997,Mitch Richmond,G,Sacramento Kings,1
+1997,Vin Baker,F,Milwaukee Bucks,1
+1997,Anfernee Hardaway,G,Orlando Magic,1
+1997,Anthony Mason,F,Charlotte Hornets,1
+1997,Shaquille O'Neal,C,Los Angeles Lakers,1
+1997,Scottie Pippen,F,Chicago Bulls,1
+1997,Karl Malone,F,Utah Jazz,1
+1997,Michael Jordan,G,Chicago Bulls,1
+1997,Grant Hill,F,Detroit Pistons,1
+1997,Tim Hardaway,G,Miami Heat,1
+1997,Patrick Ewing,C,New York Knicks,1
+1997,Gary Payton,G,Seattle SuperSonics,1
+1997,Glen Rice,F,Charlotte Hornets,1
+1997,John Stockton,G,Utah Jazz,1
+1998,Glen Rice,F,Charlotte Hornets,1
+1998,Dikembe Mutombo,C,Atlanta Hawks,1
+1998,Tim Duncan,F,San Antonio Spurs,1
+1998,Karl Malone,F,Utah Jazz,1
+1998,Shaquille O'Neal,C,Los Angeles Lakers,1
+1998,Michael Jordan,G,Chicago Bulls,1
+1998,Gary Payton,G,Seattle SuperSonics,1
+1998,Grant Hill,F,Detroit Pistons,1
+1998,Vin Baker,F,Seattle SuperSonics,1
+1998,David Robinson,C,San Antonio Spurs,1
+1998,Rod Strickland,G,Washington Wizards,1
+1998,Mitch Richmond,G,Sacramento Kings,1
+1998,Scottie Pippen,F,Chicago Bulls,1
+1998,Tim Hardaway,G,Miami Heat,1
+1998,Reggie Miller,G,Indiana Pacers,1
+1999,Kobe Bryant,G,Los Angeles Lakers,1
+1999,Tim Duncan,F,San Antonio Spurs,1
+1999,Allen Iverson,G,Philadelphia 76ers,1
+1999,Jason Kidd,G,Phoenix Suns,1
+1999,Karl Malone,F,Utah Jazz,1
+1999,Alonzo Mourning,C,Miami Heat,1
+1999,Chris Webber,F,Sacramento Kings,1
+1999,Gary Payton,G,Seattle SuperSonics,1
+1999,Grant Hill,F,Detroit Pistons,1
+1999,Tim Hardaway,G,Miami Heat,1
+1999,Shaquille O'Neal,C,Los Angeles Lakers,1
+1999,John Stockton,G,Utah Jazz,1
+1999,Kevin Garnett,F,Minnesota Timberwolves,1
+1999,Antonio McDyess,F,Denver Nuggets,1
+1999,Hakeem Olajuwon,C,Houston Rockets,1
+2000,Tim Duncan,F,San Antonio Spurs,1
+2000,Grant Hill,F,Detroit Pistons,1
+2000,Jason Kidd,G,Phoenix Suns,1
+2000,Shaquille O'Neal,C,Los Angeles Lakers,1
+2000,Gary Payton,G,Seattle SuperSonics,1
+2000,Karl Malone,F,Utah Jazz,1
+2000,Chris Webber,F,Sacramento Kings,1
+2000,David Robinson,C,San Antonio Spurs,1
+2000,Eddie Jones,G,Charlotte Hornets,1
+2000,Vince Carter,F,Toronto Raptors,1
+2000,Alonzo Mourning,C,Miami Heat,1
+2000,Allen Iverson,G,Philadelphia 76ers,1
+2000,Stephon Marbury,G,New Jersey Nets,1
+2000,Kobe Bryant,G,Los Angeles Lakers,1
+2000,Kevin Garnett,F,Minnesota Timberwolves,1
+2001,Dirk Nowitzki,F,Dallas Mavericks,1
+2001,Kevin Garnett,F,Minnesota Timberwolves,1
+2001,Kobe Bryant,G,Los Angeles Lakers,1
+2001,Chris Webber,F,Sacramento Kings,1
+2001,David Robinson,C,San Antonio Spurs,1
+2001,Jason Kidd,G,Phoenix Suns,1
+2001,Ray Allen,G,Milwaukee Bucks,1
+2001,Dikembe Mutombo,C,Philadelphia 76ers,1
+2001,Tim Duncan,F,San Antonio Spurs,1
+2001,Shaquille O'Neal,C,Los Angeles Lakers,1
+2001,Tracy McGrady,G,Orlando Magic,1
+2001,Gary Payton,G,Seattle SuperSonics,1
+2001,Karl Malone,F,Utah Jazz,1
+2001,Allen Iverson,G,Philadelphia 76ers,1
+2001,Vince Carter,F,Toronto Raptors,1
+2002,Dirk Nowitzki,C,Dallas Mavericks,1
+2002,Paul Pierce,G,Boston Celtics,1
+2002,Jermaine O'Neal,F,Indiana Pacers,1
+2002,Kobe Bryant,G,Los Angeles Lakers,1
+2002,Tim Duncan,F,San Antonio Spurs,1
+2002,Shaquille O'Neal,C,Los Angeles Lakers,1
+2002,Ben Wallace,F,Detroit Pistons,1
+2002,Gary Payton,G,Seattle SuperSonics,1
+2002,Kevin Garnett,F,Minnesota Timberwolves,1
+2002,Allen Iverson,G,Philadelphia 76ers,1
+2002,Chris Webber,F,Sacramento Kings,1
+2002,Dikembe Mutombo,C,Atlanta Hawks,1
+2002,Steve Nash,G,Dallas Mavericks,1
+2002,Tracy McGrady,F,Orlando Magic,1
+2002,Jason Kidd,G,New Jersey Nets,1
+2003,Chris Webber,F,Sacramento Kings,1
+2003,Jason Kidd,G,New Jersey Nets,1
+2003,Allen Iverson,G,Philadelphia 76ers,1
+2003,Shaquille O'Neal,C,Los Angeles Lakers,1
+2003,Ben Wallace,C,Detroit Pistons,1
+2003,Dirk Nowitzki,F,Dallas Mavericks,1
+2003,Tim Duncan,F,San Antonio Spurs,1
+2003,Stephon Marbury,G,Phoenix Suns,1
+2003,Paul Pierce,F,Boston Celtics,1
+2003,Jermaine O'Neal,C,Indiana Pacers,1
+2003,Steve Nash,G,Dallas Mavericks,1
+2003,Jamal Mashburn,F,New Orleans Hornets,1
+2003,Tracy McGrady,G,Orlando Magic,1
+2003,Kevin Garnett,F,Minnesota Timberwolves,1
+2003,Kobe Bryant,G,Los Angeles Lakers,1
+2004,Baron Davis,F,New Orleans Hornets,1
+2004,Shaquille O'Neal,C,Los Angeles Lakers,1
+2004,Jason Kidd,G,New Jersey Nets,1
+2004,Kevin Garnett,F,Minnesota Timberwolves,1
+2004,Tim Duncan,F,San Antonio Spurs,1
+2004,Kobe Bryant,G,Los Angeles Lakers,1
+2004,Yao Ming,C,Houston Rockets,1
+2004,Michael Redd,G,Milwaukee Bucks,1
+2004,Dirk Nowitzki,F,Dallas Mavericks,1
+2004,Ben Wallace,C,Detroit Pistons,1
+2004,Metta World Peace,F,Indiana Pacers,1
+2004,Peja Stojakovic,F,Sacramento Kings,1
+2004,Jermaine O'Neal,F,Indiana Pacers,1
+2004,Tracy McGrady,F,Orlando Magic,1
+2004,Sam Cassell,G,Minnesota Timberwolves,1
+2005,Gilbert Arenas,G,Washington Wizards,1
+2005,Ben Wallace,C,Detroit Pistons,1
+2005,Kobe Bryant,G,Los Angeles Lakers,1
+2005,Shawn Marion,F,Phoenix Suns,1
+2005,Tracy McGrady,F,Houston Rockets,1
+2005,Kevin Garnett,F,Boston Celtics,1
+2005,LeBron James,F,Cleveland Cavaliers,1
+2005,Shaquille O'Neal,C,Miami Heat,1
+2005,Dirk Nowitzki,F,Dallas Mavericks,1
+2005,Steve Nash,G,Phoenix Suns,1
+2005,Allen Iverson,G,Philadelphia 76ers,1
+2005,Tim Duncan,F,San Antonio Spurs,1
+2005,Dwyane Wade,G,Miami Heat,1
+2005,Amar'e Stoudemire,C,Phoenix Suns,1
+2005,Ray Allen,G,Seattle SuperSonics,1
+2006,Kobe Bryant,G,Los Angeles Lakers,1
+2006,Steve Nash,G,Phoenix Suns,1
+2006,Dirk Nowitzki,F,Dallas Mavericks,1
+2006,Shaquille O'Neal,C,Miami Heat,1
+2006,LeBron James,F,Cleveland Cavaliers,1
+2006,Tim Duncan,F,San Antonio Spurs,1
+2006,Ben Wallace,C,Detroit Pistons,1
+2006,Dwyane Wade,G,Miami Heat,1
+2006,Carmelo Anthony,F,Denver Nuggets,1
+2006,Elton Brand,F,LA Clippers,1
+2006,Yao Ming,C,Houston Rockets,1
+2006,Gilbert Arenas,G,Washington Wizards,1
+2006,Shawn Marion,F,Phoenix Suns,1
+2006,Allen Iverson,G,Philadelphia 76ers,1
+2006,Chauncey Billups,G,Detroit Pistons,1
+2007,Dwyane Wade,G,Miami Heat,1
+2007,Kobe Bryant,G,Los Angeles Lakers,1
+2007,Tim Duncan,F,San Antonio Spurs,1
+2007,Steve Nash,G,Phoenix Suns,1
+2007,Dirk Nowitzki,F,Dallas Mavericks,1
+2007,Amar'e Stoudemire,C,Phoenix Suns,1
+2007,LeBron James,F,Cleveland Cavaliers,1
+2007,Tracy McGrady,G,Houston Rockets,1
+2007,Dwight Howard,C,Orlando Magic,1
+2007,Gilbert Arenas,G,Washington Wizards,1
+2007,Yao Ming,C,Houston Rockets,1
+2007,Chauncey Billups,G,Detroit Pistons,1
+2007,Kevin Garnett,F,Minnesota Timberwolves,1
+2007,Carmelo Anthony,F,Denver Nuggets,1
+2007,Chris Bosh,F,Toronto Raptors,1
+2008,Manu Ginobili,G,San Antonio Spurs,1
+2008,Tracy McGrady,G,Houston Rockets,1
+2008,Paul Pierce,F,Boston Celtics,1
+2008,Carlos Boozer,F,Utah Jazz,1
+2008,Yao Ming,C,Houston Rockets,1
+2008,Chris Paul,G,New Orleans Hornets,1
+2008,Dwight Howard,C,Orlando Magic,1
+2008,LeBron James,F,Cleveland Cavaliers,1
+2008,Kobe Bryant,G,Los Angeles Lakers,1
+2008,Kevin Garnett,F,Boston Celtics,1
+2008,Tim Duncan,F,San Antonio Spurs,1
+2008,Steve Nash,G,Phoenix Suns,1
+2008,Dirk Nowitzki,F,Dallas Mavericks,1
+2008,Amar'e Stoudemire,C,Phoenix Suns,1
+2008,Deron Williams,G,Utah Jazz,1
+2009,Dwyane Wade,G,Miami Heat,1
+2009,Tim Duncan,F,San Antonio Spurs,1
+2009,Paul Pierce,F,Boston Celtics,1
+2009,Yao Ming,C,Houston Rockets,1
+2009,Chris Paul,G,New Orleans Hornets,1
+2009,Brandon Roy,G,Portland Trail Blazers,1
+2009,Carmelo Anthony,F,Denver Nuggets,1
+2009,Tony Parker,G,San Antonio Spurs,1
+2009,LeBron James,F,Cleveland Cavaliers,1
+2009,Dirk Nowitzki,F,Dallas Mavericks,1
+2009,Kobe Bryant,G,Los Angeles Lakers,1
+2009,Pau Gasol,F,Los Angeles Lakers,1
+2009,Shaquille O'Neal,C,Phoenix Suns,1
+2009,Chauncey Billups,G,Denver Nuggets,1
+2009,Dwight Howard,C,Orlando Magic,1
+2010,Dirk Nowitzki,F,Dallas Mavericks,1
+2010,Brandon Roy,G,Portland Trail Blazers,1
+2010,Andrew Bogut,C,Milwaukee Bucks,1
+2010,Joe Johnson,G,Atlanta Hawks,1
+2010,Pau Gasol,F,Los Angeles Lakers,1
+2010,Tim Duncan,F,San Antonio Spurs,1
+2010,Carmelo Anthony,F,Denver Nuggets,1
+2010,Dwight Howard,C,Orlando Magic,1
+2010,Steve Nash,G,Phoenix Suns,1
+2010,Amar'e Stoudemire,C,Phoenix Suns,1
+2010,Kevin Durant,F,Oklahoma City Thunder,1
+2010,Kobe Bryant,G,Los Angeles Lakers,1
+2010,LeBron James,F,Cleveland Cavaliers,1
+2010,Dwyane Wade,G,Miami Heat,1
+2010,Deron Williams,G,Utah Jazz,1
+2011,Dwight Howard,C,Orlando Magic,1
+2011,Kevin Durant,PF,Oklahoma City Thunder,1
+2011,Manu Ginobili,G,San Antonio Spurs,1
+2011,Zach Randolph,F,Memphis Grizzlies,1
+2011,Chris Paul,PG,New Orleans Hornets,1
+2011,LaMarcus Aldridge,C,Portland Trail Blazers,1
+2011,Al Horford,C,Atlanta Hawks,1
+2011,Derrick Rose,PG,Chicago Bulls,1
+2011,LeBron James,SF,Miami Heat,1
+2011,Amar'e Stoudemire,C,New York Knicks,1
+2011,Dwyane Wade,G,Miami Heat,1
+2011,Russell Westbrook,PG,Oklahoma City Thunder,1
+2011,Kobe Bryant,SF,Los Angeles Lakers,1
+2011,Dirk Nowitzki,F,Dallas Mavericks,1
+2011,Pau Gasol,PF,Los Angeles Lakers,1
+2012,Rajon Rondo,G,Boston Celtics,1
+2012,Blake Griffin,F,LA Clippers,1
+2012,Dirk Nowitzki,F,Dallas Mavericks,1
+2012,Dwight Howard,C,Los Angeles Lakers,1
+2012,Kevin Love,F,Minnesota Timberwolves,1
+2012,Dwyane Wade,G,Miami Heat,1
+2012,LeBron James,F,Miami Heat,1
+2012,Tyson Chandler,C,New York Knicks,1
+2012,Chris Paul,G,LA Clippers,1
+2012,Russell Westbrook,G,Oklahoma City Thunder,1
+2012,Kobe Bryant,G,Los Angeles Lakers,1
+2012,Andrew Bynum,C,Philadelphia 76ers,1
+2012,Tony Parker,G,San Antonio Spurs,1
+2012,Kevin Durant,F,Oklahoma City Thunder,1
+2012,Carmelo Anthony,F,New York Knicks,1
+2013,Kevin Durant,F,Oklahoma City Thunder,1
+2013,Kobe Bryant,G,Los Angeles Lakers,1
+2013,Tim Duncan,F,San Antonio Spurs,1
+2013,LeBron James,F,Miami Heat,1
+2013,Chris Paul,G,LA Clippers,1
+2013,Dwight Howard,C,Los Angeles Lakers,1
+2013,Paul George,G,Indiana Pacers,1
+2013,James Harden,G,Houston Rockets,1
+2013,David Lee,F,Golden State Warriors,1
+2013,Dwyane Wade,G,Miami Heat,1
+2013,Tony Parker,G,San Antonio Spurs,1
+2013,Carmelo Anthony,F,New York Knicks,1
+2013,Marc Gasol,C,Memphis Grizzlies,1
+2013,Russell Westbrook,G,Oklahoma City Thunder,1
+2013,Blake Griffin,F,LA Clippers,1
+2014,Paul George,F,Indiana Pacers,1
+2014,Damian Lillard,G,Portland Trail Blazers,1
+2014,Tony Parker,G,San Antonio Spurs,1
+2014,Dwight Howard,C,Houston Rockets,1
+2014,Kevin Love,F,Minnesota Timberwolves,1
+2014,Stephen Curry,G,Golden State Warriors,1
+2014,James Harden,G,Houston Rockets,1
+2014,Goran Dragic,G,Phoenix Suns,1
+2014,Joakim Noah,C,Chicago Bulls,1
+2014,Kevin Durant,F,Oklahoma City Thunder,1
+2014,Chris Paul,G,LA Clippers,1
+2014,LeBron James,F,Miami Heat,1
+2014,Al Jefferson,C,Charlotte Bobcats,1
+2014,LaMarcus Aldridge,F,Portland Trail Blazers,1
+2014,Blake Griffin,F,LA Clippers,1
+2015,Tim Duncan,F,San Antonio Spurs,1
+2015,Blake Griffin,F,LA Clippers,1
+2015,Kyrie Irving,G,Cleveland Cavaliers,1
+2015,Klay Thompson,G,Golden State Warriors,1
+2015,Anthony Davis,F,New Orleans Pelicans,1
+2015,James Harden,G,Houston Rockets,1
+2015,Marc Gasol,C,Memphis Grizzlies,1
+2015,DeAndre Jordan,C,LA Clippers,1
+2015,LeBron James,F,Cleveland Cavaliers,1
+2015,DeMarcus Cousins,C,Sacramento Kings,1
+2015,Russell Westbrook,G,Oklahoma City Thunder,1
+2015,LaMarcus Aldridge,F,Portland Trail Blazers,1
+2015,Chris Paul,G,LA Clippers,1
+2015,Pau Gasol,F,Chicago Bulls,1
+2015,Stephen Curry,G,Golden State Warriors,1
+2016,Kyle Lowry,G,Toronto Raptors,1
+2016,LaMarcus Aldridge,F,San Antonio Spurs,1
+2016,Damian Lillard,G,Portland Trail Blazers,1
+2016,Kevin Durant,F,Oklahoma City Thunder,1
+2016,Paul George,F,Indiana Pacers,1
+2016,Klay Thompson,G,Golden State Warriors,1
+2016,Draymond Green,F,Golden State Warriors,1
+2016,Chris Paul,G,LA Clippers,1
+2016,Russell Westbrook,G,Oklahoma City Thunder,1
+2016,DeAndre Jordan,C,LA Clippers,1
+2016,LeBron James,F,Cleveland Cavaliers,1
+2016,Andre Drummond,C,Detroit Pistons,1
+2016,DeMarcus Cousins,C,Sacramento Kings,1
+2016,Kawhi Leonard,F,San Antonio Spurs,1
+2016,Stephen Curry,G,Golden State Warriors,1
+2017,Russell Westbrook,G,Oklahoma City Thunder,1
+2017,Stephen Curry,G,Golden State Warriors,1
+2017,Giannis Antetokounmpo,F,Milwaukee Bucks,1
+2017,Isaiah Thomas,G,Boston Celtics,1
+2017,DeAndre Jordan,C,LA Clippers,1
+2017,James Harden,G,Houston Rockets,1
+2017,Anthony Davis,F,New Orleans Pelicans,1
+2017,DeMar DeRozan,G,Toronto Raptors,1
+2017,Kevin Durant,F,Golden State Warriors,1
+2017,Jimmy Butler,G,Chicago Bulls,1
+2017,LeBron James,F,Cleveland Cavaliers,1
+2017,John Wall,G,Washington Wizards,1
+2017,Rudy Gobert,C,Utah Jazz,1
+2017,Draymond Green,F,Golden State Warriors,1
+2017,Kawhi Leonard,F,San Antonio Spurs,1
+2018,Joel Embiid,C,Philadelphia 76ers,1
+2018,Stephen Curry,G,Golden State Warriors,1
+2018,Paul George,F,Oklahoma City Thunder,1
+2018,Jimmy Butler,G,Minnesota Timberwolves,1
+2018,Victor Oladipo,G,Indiana Pacers,1
+2018,Karl-Anthony Towns,F,Minnesota Timberwolves,1
+2018,Damian Lillard,G,Portland Trail Blazers,1
+2018,Giannis Antetokounmpo,F,Milwaukee Bucks,1
+2018,James Harden,G,Houston Rockets,1
+2018,Kevin Durant,F,Golden State Warriors,1
+2018,LeBron James,F,Cleveland Cavaliers,1
+2018,LaMarcus Aldridge,F,San Antonio Spurs,1
+2018,Russell Westbrook,G,Oklahoma City Thunder,1
+2018,DeMar DeRozan,G,Toronto Raptors,1
+2018,Anthony Davis,F,New Orleans Pelicans,1
+2019,Russell Westbrook,G,Oklahoma City Thunder,1
+2019,Nikola Jokic,C,Denver Nuggets,1
+2019,Damian Lillard,G,Portland Trail Blazers,1
+2019,Paul George,F,Oklahoma City Thunder,1
+2019,James Harden,G,Houston Rockets,1
+2019,Stephen Curry,G,Golden State Warriors,1
+2019,Kevin Durant,F,Golden State Warriors,1
+2019,Rudy Gobert,C,Utah Jazz,1
+2019,LeBron James,F,Los Angeles Lakers,1
+2019,Kemba Walker,G,Charlotte Hornets,1
+2019,Joel Embiid,C,Philadelphia 76ers,1
+2019,Blake Griffin,F,Detroit Pistons,1
+2019,Kawhi Leonard,F,Toronto Raptors,1
+2019,Kyrie Irving,G,Boston Celtics,1
+2019,Giannis Antetokounmpo,F,Milwaukee Bucks,1
+2020,Rudy Gobert,C,Utah Jazz,1
+2020,Pascal Siakam,F,Toronto Raptors,1
+2020,Ben Simmons,F,Philadelphia 76ers,1
+2020,Anthony Davis,F,Los Angeles Lakers,1
+2020,Giannis Antetokounmpo,F,Milwaukee Bucks,1
+2020,Luka Doncic,G,Dallas Mavericks,1
+2020,Jimmy Butler,F,Miami Heat,1
+2020,LeBron James,F,Los Angeles Lakers,1
+2020,Damian Lillard,G,Portland Trail Blazers,1
+2020,Kawhi Leonard,F,LA Clippers,1
+2020,Nikola Jokic,C,Denver Nuggets,1
+2020,Russell Westbrook,G,Houston Rockets,1
+2020,Chris Paul,G,Oklahoma City Thunder,1
+2020,Jayson Tatum,F,Boston Celtics,1
+2020,James Harden,G,Houston Rockets,1
+2021,Nikola Jokic,C,Denver Nuggets,1
+2021,Bradley Beal,SG,Washington Wizards,1
+2021,Julius Randle,PF,New York Knicks,1
+2021,Kawhi Leonard,SF,LA Clippers,1
+2021,Luka Doncic,PG,Dallas Mavericks,1
+2021,Rudy Gobert,C,Utah Jazz,1
+2021,Chris Paul,PG,Phoenix Suns,1
+2021,Jimmy Butler,SF,Miami Heat,1
+2021,Paul George,SG,LA Clippers,1
+2021,Damian Lillard,PG,Portland Trail Blazers,1
+2021,Joel Embiid,C,Philadelphia 76ers,1
+2021,Kyrie Irving,PG,Brooklyn Nets,1
+2021,LeBron James,SF,Los Angeles Lakers,1
+2021,Giannis Antetokounmpo,PF,Milwaukee Bucks,1
+2021,Stephen Curry,PG,Golden State Warriors,1

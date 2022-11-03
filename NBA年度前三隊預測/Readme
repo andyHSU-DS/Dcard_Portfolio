@@ -1,0 +1,4 @@
+資料蒐集for歷年前三隊資料及13-14賽季到21-22賽季的球員資料，內部有做累積前三隊處理
+資料整理及PCA做PCA及各式資料處理
+建模baseline_改做Logistic Regression（AUC, Accurancy, SMOTE）
+嘗試用DNN架構做至個問題
